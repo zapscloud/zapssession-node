@@ -1,0 +1,30 @@
+{
+  "name": "@zapscloud/zapssession",
+  "version": "1.0.0",
+  "description": "Zapscloud Session Management Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zapscloud/zapssession-node.git"
+  },
+  "keywords": [
+    "zapscloud",
+    "zapssession",
+    "session",
+    "zapsdb",
+    "zaps"
+  ],
+  "author": "Team Zapscloud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zapscloud/zapssession-node/issues"
+  },
+  "homepage": "https://github.com/zapscloud/zapssession-node#readme",
+  "dependencies": {
+    "@zapscloud/zapsdatabase": "^1.1.6",
+    "debug": "^4.1.1"
+  }
+}
