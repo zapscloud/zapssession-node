@@ -10,7 +10,6 @@ NodeJS express-session storage for ZapsDB.
     const ZapsSession = require('@zapscloud/zapssession')(session)
 
     var _zapsconfig = {
-        url: config.zapsurl,
         app: config.zapsapp,
         authkey: config.zapskey,
         authsecret: config.zapssecret

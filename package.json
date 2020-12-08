@@ -1,6 +1,6 @@
 {
   "name": "@zapscloud/zapssession",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "description": "Zapscloud Session Package",
   "main": "index.js",
   "scripts": {
